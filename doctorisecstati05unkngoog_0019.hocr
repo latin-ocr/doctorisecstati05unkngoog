@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati05unkngoog_0019.png"; bbox 0 0 4300 6259; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 933 560 2866 689">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 933 560 2866 689">
+     <span class='ocr_line' id='line_1_1' title="bbox 933 560 2866 689; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 933 560 1822 688; x_wconf 87' lang='lat' dir='ltr'>DOCTORIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1955 560 2866 689; x_wconf 88' lang='lat' dir='ltr'>ECSTATICI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 435 1054 3361 1371">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 435 1054 3361 1371">
+     <span class='ocr_line' id='line_1_2' title="bbox 435 1054 3361 1371; baseline -0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 435 1057 804 1371; x_wconf 88' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1019 1054 3361 1370; x_wconf 68' lang='lat' dir='ltr'>DIONYSII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1203 1724 2623 1893">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1203 1724 2623 1893">
+     <span class='ocr_line' id='line_1_3' title="bbox 1203 1724 2623 1893; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1203 1724 2623 1893; x_wconf 85' lang='lat' dir='ltr'><strong>CARTUSIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 766 2166 3051 2489">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 766 2166 3051 2489">
+     <span class='ocr_line' id='line_1_4' title="bbox 766 2166 3051 2489; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 766 2166 3051 2489; x_wconf 40' lang='lat' dir='ltr'><strong>OPERA&#39;MINORA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1055 5128 2775 5216">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1055 5128 2775 5216">
+     <span class='ocr_line' id='line_1_5' title="bbox 1055 5128 2775 5216; baseline 0.002 -4"><span class='ocrx_word' id='word_1_7' title='bbox 1055 5128 2775 5216; x_wconf 89' lang='lat' dir='ltr'><strong>EEEEEEEEEEEEEEEEEEEE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1207 5344 2619 5413">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1207 5344 2619 5413">
+     <span class='ocr_line' id='line_1_6' title="bbox 1207 5344 2619 5413; baseline 0.002 -4"><span class='ocrx_word' id='word_1_8' title='bbox 1207 5344 2619 5413; x_wconf 81' lang='lat' dir='ltr'><strong>NNNNNNNNNNNNNNNNNNNNNNNN</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
